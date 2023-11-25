@@ -11,7 +11,7 @@
 
 		<div class="container">
 			<h5 class="mt-4">
-				작업상태 (<strong class="text-danger">작업완료 ●</strong>, <strong class="text-dark">작업중 ▲</strong> )
+				1작업상태 (<strong class="text-danger">작업완료 ●</strong>, <strong class="text-dark">작업중 ▲</strong> )
 			</h5>
 			<div class="row my-4">
 				<div class="col-md-6 col-lg-4 mb-4">
